@@ -19,7 +19,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-veKG2ootplNGLwNEW5It4+lJXwpdOVR1Ry4MBDNvdgL6OgBkiAXaZAZnIKkw6sIygnfGqQhR5q7UdS1llqd6/g==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-bde286da8a2da653462f03445b922de3.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-SIdH/u1H0WymCGxSKvv9kCVqCpgpL7GuBc5dVtA1UApgTky3oIA6YLFIzjYiN7fjVk/vZcu/QX5sobbu5BCkmg==" rel="stylesheet" href="https://github.githubassets.com/assets/site-488747feed47d16ca6086c522afbfd90.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-iOE2yI4flq0MgwIhgk4tgog2A3LuuWqOM/G7Akx732FT1lPsGaGiwFhIjrPSs/N0ck5MfRAkWf+OQyVoGsyVGQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-88e136c88e1f96ad0c830221824e2d82.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-skPyVTHZNIGgS+iOrxZDIAVEo+136jP6BPFPrOP1xEMwJXfMxMt4VnfsAHPyDWiwip4bV15QK9KrrYfmozIkTw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-b243f25531d93481a04be88eaf164320.css" />
     
     
     
@@ -40,7 +40,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="EC87:28A52:7AB73:A9AA8:5ED0E54A" data-pjax-transient="true"/><meta name="html-safe-nonce" content="1920e3d5d3124ca9cb866949cf311e9d9493a69b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFQzg3OjI4QTUyOjdBQjczOkE5QUE4OjVFRDBFNTRBIiwidmlzaXRvcl9pZCI6IjQ2MzM3MDEzNzM4MzczNzA2OTgiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJhbXMifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="2bf1d1da1cc3b806b4b6bca7a64150f83caf8606fed01e361ae5711eb53b9941" data-pjax-transient="true"/>
+  <meta name="request-id" content="E118:28A52:4258AB5:5EF28B3:5ED69C29" data-pjax-transient="true"/><meta name="html-safe-nonce" content="e9719d11afc8f580ac58398e042343a3a7dddae7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMTE4OjI4QTUyOjQyNThBQjU6NUVGMjhCMzo1RUQ2OUMyOSIsInZpc2l0b3JfaWQiOiI4NjgwMDkyODQ2MjYxNzA1NzY5IiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiYW1zIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="7e327174865f44c35e3f32757157c8308b09bb1e0d0931bcbf2ccf53d3fea2af" data-pjax-transient="true"/>
 
 
 
@@ -79,7 +79,7 @@
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_CHUNKING">
 
-  <meta http-equiv="x-pjax-version" content="100988d64799449a37fff95c55794c85">
+  <meta http-equiv="x-pjax-version" content="9ccb17f0c99c05f944fbbf47885b047b">
   
 
       <link href="https://github.com/CSSEGISandData/COVID-19/commits/master.atom" rel="alternate" title="Recent Commits to COVID-19:master" type="application/atom+xml">
@@ -288,7 +288,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="jh0w02BRR7eb6UJ8bkAMtxoXqE59czufG0DpsiigAnfU4wLBHpSAgVRmvf8FQw+IVrcMMv0qcT4okKPg04QOzA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Mov9Hi/BCiaB7jVJgRoyu7E0rWzcN/q6O0qeNbRXo+7hwgqJnQrjhQqAAHJSgkk+SpNaiwT1aOK04OAoFKxPuA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -509,8 +509,8 @@
     <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/CSSEGISandData/COVID-19/watchers"
-       aria-label="944 users are watching this repository">
-      944
+       aria-label="941 users are watching this repository">
+      941
     </a>
 
   </li>
@@ -522,8 +522,8 @@
       Star
 </a>
     <a class="social-count js-social-count" href="/CSSEGISandData/COVID-19/stargazers"
-      aria-label="22473 users starred this repository">
-      22.5k
+      aria-label="22565 users starred this repository">
+      22.6k
     </a>
 
   </li>
@@ -534,8 +534,8 @@
         Fork
 </a>
     <a href="/CSSEGISandData/COVID-19/network/members" class="social-count"
-       aria-label="13457 users forked this repository">
-      13.5k
+       aria-label="13570 users forked this repository">
+      13.6k
     </a>
   </li>
 </ul>
@@ -558,7 +558,7 @@
         <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /CSSEGISandData/COVID-19/issues" href="/CSSEGISandData/COVID-19/issues">
           <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></div>
           <span itemprop="name">Issues</span>
-          <span class="Counter">1,342</span>
+          <span class="Counter">1,362</span>
           <meta itemprop="position" content="2">
 </a>      </li>
 
@@ -566,7 +566,7 @@
       <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /CSSEGISandData/COVID-19/pulls" href="/CSSEGISandData/COVID-19/pulls">
         <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg></div>
         <span itemprop="name">Pull requests</span>
-        <span class="Counter">257</span>
+        <span class="Counter">258</span>
         <meta itemprop="position" content="4">
 </a>    </li>
 
@@ -617,14 +617,14 @@
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
         <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /CSSEGISandData/COVID-19/issues" href="/CSSEGISandData/COVID-19/issues">
           <span itemprop="name">Issues</span>
-          <span class="Counter">1,342</span>
+          <span class="Counter">1,362</span>
           <meta itemprop="position" content="2">
 </a>      </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
       <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /CSSEGISandData/COVID-19/pulls" href="/CSSEGISandData/COVID-19/pulls">
         <span itemprop="name">Pull requests</span>
-        <span class="Counter">257</span>
+        <span class="Counter">258</span>
         <meta itemprop="position" content="4">
 </a>    </span>
 
@@ -672,9 +672,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CSSEGISandData/COVID-19/blob/66c71f58060776ecdd50aa1477cabaf96f9bde28/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CSSEGISandData/COVID-19/blob/fd85f3e104fa3034ecb439fb4192b2cba6a98a7c/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:bcc11f8476c3cfedd1e4dd39567ac976 -->
+    <!-- blob contrib key: blob_contributors:v22:db7de26a4702122d42b141716fa7118f -->
       <signup-prompt-controller class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -753,12 +753,12 @@
           <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/CSSEGISandData/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CSSEGISandData"><img class="avatar avatar-user" src="https://avatars3.githubusercontent.com/u/60674295?s=40&amp;v=4" width="20" height="20" alt="@CSSEGISandData" /></a>
           <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/users/CSSEGISandData/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CSSEGISandData">CSSEGISandData</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="automated update" class="link-gray" href="/CSSEGISandData/COVID-19/commit/66c71f58060776ecdd50aa1477cabaf96f9bde28">automated update</a>
+              <a data-pjax="true" title="automated update" class="link-gray" href="/CSSEGISandData/COVID-19/commit/73ce6ae1fc99d8b933b4b22a31351d30b507d659">automated update</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/CSSEGISandData/COVID-19/commit/66c71f58060776ecdd50aa1477cabaf96f9bde28" data-pjax>66c71f5</a>
-          <relative-time datetime="2020-05-29T02:55:41Z" class="no-wrap">May 29, 2020</relative-time>
+          <a class="pr-2 text-mono link-gray" href="/CSSEGISandData/COVID-19/commit/73ce6ae1fc99d8b933b4b22a31351d30b507d659" data-pjax>73ce6ae</a>
+          <relative-time datetime="2020-06-02T02:55:43Z" class="no-wrap">Jun 2, 2020</relative-time>
         </span>
       </div>
 
@@ -798,7 +798,7 @@
 
       267 lines (267 sloc)
       <span class="file-info-divider"></span>
-    87.3 KB
+    90.4 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
@@ -979,6 +979,10 @@
             <th>5/26/20</th>
             <th>5/27/20</th>
             <th>5/28/20</th>
+            <th>5/29/20</th>
+            <th>5/30/20</th>
+            <th>5/31/20</th>
+            <th>6/1/20</th>
         </tr>
       </thead>
       <tbody>
@@ -1116,6 +1120,10 @@
               <td>220</td>
               <td>227</td>
               <td>235</td>
+              <td>246</td>
+              <td>249</td>
+              <td>257</td>
+              <td>265</td>
           </tr>
           <tr id="LC3" class="js-file-line">
             <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
@@ -1248,6 +1256,10 @@
               <td>31</td>
               <td>32</td>
               <td>32</td>
+              <td>33</td>
+              <td>33</td>
+              <td>33</td>
+              <td>33</td>
               <td>33</td>
               <td>33</td>
               <td>33</td>
@@ -1386,6 +1398,10 @@
               <td>617</td>
               <td>623</td>
               <td>630</td>
+              <td>638</td>
+              <td>646</td>
+              <td>653</td>
+              <td>661</td>
           </tr>
           <tr id="LC5" class="js-file-line">
             <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
@@ -1508,6 +1524,10 @@
               <td>49</td>
               <td>49</td>
               <td>49</td>
+              <td>51</td>
+              <td>51</td>
+              <td>51</td>
+              <td>51</td>
               <td>51</td>
               <td>51</td>
               <td>51</td>
@@ -1656,6 +1676,10 @@
               <td>4</td>
               <td>4</td>
               <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
           </tr>
           <tr id="LC7" class="js-file-line">
             <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
@@ -1748,6 +1772,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
               <td>3</td>
               <td>3</td>
               <td>3</td>
@@ -1926,6 +1954,10 @@
               <td>484</td>
               <td>500</td>
               <td>508</td>
+              <td>520</td>
+              <td>528</td>
+              <td>539</td>
+              <td>556</td>
           </tr>
           <tr id="LC9" class="js-file-line">
             <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
@@ -2061,6 +2093,10 @@
               <td>91</td>
               <td>98</td>
               <td>113</td>
+              <td>120</td>
+              <td>127</td>
+              <td>131</td>
+              <td>139</td>
           </tr>
           <tr id="LC10" class="js-file-line">
             <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
@@ -2152,6 +2188,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
               <td>3</td>
               <td>3</td>
               <td>3</td>
@@ -2331,6 +2371,10 @@
               <td>48</td>
               <td>48</td>
               <td>48</td>
+              <td>48</td>
+              <td>48</td>
+              <td>48</td>
+              <td>48</td>
           </tr>
           <tr id="LC12" class="js-file-line">
             <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
@@ -2338,6 +2382,10 @@
               <td>Australia</td>
               <td>-12.4634</td>
               <td>130.8456</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -2601,6 +2649,10 @@
               <td>7</td>
               <td>7</td>
               <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>6</td>
           </tr>
           <tr id="LC14" class="js-file-line">
             <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
@@ -2689,6 +2741,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
               <td>4</td>
               <td>4</td>
               <td>4</td>
@@ -2871,6 +2927,10 @@
               <td>13</td>
               <td>13</td>
               <td>13</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
           </tr>
           <tr id="LC16" class="js-file-line">
             <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
@@ -3006,6 +3066,10 @@
               <td>19</td>
               <td>19</td>
               <td>19</td>
+              <td>19</td>
+              <td>19</td>
+              <td>19</td>
+              <td>19</td>
           </tr>
           <tr id="LC17" class="js-file-line">
             <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
@@ -3115,6 +3179,10 @@
               <td>8</td>
               <td>8</td>
               <td>8</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
               <td>9</td>
               <td>9</td>
               <td>9</td>
@@ -3276,6 +3344,10 @@
               <td>643</td>
               <td>645</td>
               <td>668</td>
+              <td>668</td>
+              <td>668</td>
+              <td>668</td>
+              <td>668</td>
           </tr>
           <tr id="LC19" class="js-file-line">
             <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
@@ -3411,6 +3483,10 @@
               <td>52</td>
               <td>54</td>
               <td>56</td>
+              <td>58</td>
+              <td>61</td>
+              <td>63</td>
+              <td>68</td>
           </tr>
           <tr id="LC20" class="js-file-line">
             <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
@@ -3510,6 +3586,10 @@
               <td>9</td>
               <td>9</td>
               <td>9</td>
+              <td>11</td>
+              <td>11</td>
+              <td>11</td>
+              <td>11</td>
               <td>11</td>
               <td>11</td>
               <td>11</td>
@@ -3681,6 +3761,10 @@
               <td>14</td>
               <td>15</td>
               <td>15</td>
+              <td>15</td>
+              <td>17</td>
+              <td>19</td>
+              <td>19</td>
           </tr>
           <tr id="LC22" class="js-file-line">
             <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
@@ -3816,6 +3900,10 @@
               <td>522</td>
               <td>544</td>
               <td>559</td>
+              <td>582</td>
+              <td>610</td>
+              <td>650</td>
+              <td>672</td>
           </tr>
           <tr id="LC23" class="js-file-line">
             <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
@@ -3921,6 +4009,10 @@
               <td>6</td>
               <td>6</td>
               <td>6</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
               <td>7</td>
               <td>7</td>
               <td>7</td>
@@ -4086,6 +4178,10 @@
               <td>208</td>
               <td>214</td>
               <td>219</td>
+              <td>224</td>
+              <td>229</td>
+              <td>235</td>
+              <td>240</td>
           </tr>
           <tr id="LC25" class="js-file-line">
             <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
@@ -4221,6 +4317,10 @@
               <td>9334</td>
               <td>9364</td>
               <td>9388</td>
+              <td>9430</td>
+              <td>9453</td>
+              <td>9467</td>
+              <td>9486</td>
           </tr>
           <tr id="LC26" class="js-file-line">
             <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
@@ -4356,6 +4456,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC27" class="js-file-line">
             <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
@@ -4363,6 +4467,10 @@
               <td>Bhutan</td>
               <td>27.5142</td>
               <td>90.4336</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -4626,6 +4734,10 @@
               <td>274</td>
               <td>280</td>
               <td>293</td>
+              <td>300</td>
+              <td>310</td>
+              <td>313</td>
+              <td>343</td>
           </tr>
           <tr id="LC29" class="js-file-line">
             <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
@@ -4761,6 +4873,10 @@
               <td>149</td>
               <td>151</td>
               <td>153</td>
+              <td>153</td>
+              <td>153</td>
+              <td>153</td>
+              <td>154</td>
           </tr>
           <tr id="LC30" class="js-file-line">
             <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
@@ -4896,6 +5012,10 @@
               <td>24512</td>
               <td>25598</td>
               <td>26754</td>
+              <td>27878</td>
+              <td>28834</td>
+              <td>29314</td>
+              <td>29937</td>
           </tr>
           <tr id="LC31" class="js-file-line">
             <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
@@ -5029,6 +5149,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
               <td>2</td>
               <td>2</td>
           </tr>
@@ -5166,6 +5290,10 @@
               <td>130</td>
               <td>133</td>
               <td>134</td>
+              <td>136</td>
+              <td>139</td>
+              <td>140</td>
+              <td>140</td>
           </tr>
           <tr id="LC33" class="js-file-line">
             <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
@@ -5299,6 +5427,10 @@
               <td>52</td>
               <td>52</td>
               <td>52</td>
+              <td>53</td>
+              <td>53</td>
+              <td>53</td>
+              <td>53</td>
               <td>53</td>
               <td>53</td>
           </tr>
@@ -5436,6 +5568,10 @@
               <td>4</td>
               <td>4</td>
               <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
           </tr>
           <tr id="LC35" class="js-file-line">
             <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
@@ -5443,6 +5579,10 @@
               <td>Cambodia</td>
               <td>11.55</td>
               <td>104.9167</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -5706,6 +5846,10 @@
               <td>175</td>
               <td>175</td>
               <td>175</td>
+              <td>177</td>
+              <td>191</td>
+              <td>191</td>
+              <td>199</td>
           </tr>
           <tr id="LC37" class="js-file-line">
             <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
@@ -5840,6 +5984,10 @@
               <td>138</td>
               <td>139</td>
               <td>141</td>
+              <td>143</td>
+              <td>143</td>
+              <td>143</td>
+              <td>143</td>
               <td>143</td>
           </tr>
           <tr id="LC38" class="js-file-line">
@@ -5976,6 +6124,10 @@
               <td>161</td>
               <td>162</td>
               <td>164</td>
+              <td>164</td>
+              <td>164</td>
+              <td>164</td>
+              <td>165</td>
           </tr>
           <tr id="LC39" class="js-file-line">
             <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
@@ -5983,6 +6135,10 @@
               <td>Canada</td>
               <td>37.6489</td>
               <td>-122.6655</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -6246,6 +6402,10 @@
               <td>7</td>
               <td>7</td>
               <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
           </tr>
           <tr id="LC41" class="js-file-line">
             <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
@@ -6253,6 +6413,10 @@
               <td>Canada</td>
               <td>46.5653</td>
               <td>-66.4619</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -6516,6 +6680,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC43" class="js-file-line">
             <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
@@ -6651,6 +6819,10 @@
               <td>59</td>
               <td>59</td>
               <td>59</td>
+              <td>59</td>
+              <td>60</td>
+              <td>60</td>
+              <td>60</td>
           </tr>
           <tr id="LC44" class="js-file-line">
             <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
@@ -6786,6 +6958,10 @@
               <td>2235</td>
               <td>2264</td>
               <td>2292</td>
+              <td>2313</td>
+              <td>2332</td>
+              <td>2344</td>
+              <td>2353</td>
           </tr>
           <tr id="LC45" class="js-file-line">
             <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
@@ -6871,6 +7047,10 @@
               <td>0</td>
               <td>0</td>
               <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -7056,6 +7236,10 @@
               <td>4140</td>
               <td>4229</td>
               <td>4303</td>
+              <td>4363</td>
+              <td>4439</td>
+              <td>4641</td>
+              <td>4661</td>
           </tr>
           <tr id="LC47" class="js-file-line">
             <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
@@ -7191,6 +7375,10 @@
               <td>8</td>
               <td>10</td>
               <td>10</td>
+              <td>10</td>
+              <td>10</td>
+              <td>11</td>
+              <td>11</td>
           </tr>
           <tr id="LC48" class="js-file-line">
             <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
@@ -7326,6 +7514,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>2</td>
+              <td>4</td>
           </tr>
           <tr id="LC49" class="js-file-line">
             <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
@@ -7461,6 +7653,10 @@
               <td>62</td>
               <td>64</td>
               <td>65</td>
+              <td>65</td>
+              <td>65</td>
+              <td>65</td>
+              <td>66</td>
           </tr>
           <tr id="LC50" class="js-file-line">
             <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
@@ -7596,6 +7792,10 @@
               <td>806</td>
               <td>841</td>
               <td>890</td>
+              <td>944</td>
+              <td>997</td>
+              <td>1054</td>
+              <td>1113</td>
           </tr>
           <tr id="LC51" class="js-file-line">
             <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
@@ -7626,6 +7826,10 @@
               <td>4</td>
               <td>4</td>
               <td>5</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
               <td>6</td>
               <td>6</td>
               <td>6</td>
@@ -7866,6 +8070,10 @@
               <td>9</td>
               <td>9</td>
               <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
           </tr>
           <tr id="LC53" class="js-file-line">
             <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
@@ -7902,6 +8110,10 @@
               <td>5</td>
               <td>5</td>
               <td>5</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
               <td>6</td>
               <td>6</td>
               <td>6</td>
@@ -8136,6 +8348,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC55" class="js-file-line">
             <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
@@ -8161,6 +8377,10 @@
               <td>0</td>
               <td>0</td>
               <td>1</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
               <td>2</td>
               <td>2</td>
               <td>2</td>
@@ -8406,6 +8626,10 @@
               <td>8</td>
               <td>8</td>
               <td>8</td>
+              <td>8</td>
+              <td>8</td>
+              <td>8</td>
+              <td>8</td>
           </tr>
           <tr id="LC57" class="js-file-line">
             <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
@@ -8435,6 +8659,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
               <td>2</td>
               <td>2</td>
               <td>2</td>
@@ -8676,6 +8904,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
           </tr>
           <tr id="LC59" class="js-file-line">
             <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
@@ -8811,6 +9043,10 @@
               <td>6</td>
               <td>6</td>
               <td>6</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
           </tr>
           <tr id="LC60" class="js-file-line">
             <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
@@ -8849,6 +9085,10 @@
               <td>4</td>
               <td>5</td>
               <td>5</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
               <td>6</td>
               <td>6</td>
               <td>6</td>
@@ -9081,6 +9321,10 @@
               <td>13</td>
               <td>13</td>
               <td>13</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
           </tr>
           <tr id="LC62" class="js-file-line">
             <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
@@ -9127,6 +9371,10 @@
               <td>20</td>
               <td>20</td>
               <td>21</td>
+              <td>22</td>
+              <td>22</td>
+              <td>22</td>
+              <td>22</td>
               <td>22</td>
               <td>22</td>
               <td>22</td>
@@ -9351,6 +9599,10 @@
               <td>4</td>
               <td>4</td>
               <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
           </tr>
           <tr id="LC64" class="js-file-line">
             <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
@@ -9486,6 +9738,10 @@
               <td>4512</td>
               <td>4512</td>
               <td>4512</td>
+              <td>4512</td>
+              <td>4512</td>
+              <td>4512</td>
+              <td>4512</td>
           </tr>
           <tr id="LC65" class="js-file-line">
             <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
@@ -9520,6 +9776,10 @@
               <td>2</td>
               <td>3</td>
               <td>3</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
               <td>4</td>
               <td>4</td>
               <td>4</td>
@@ -9756,6 +10016,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC67" class="js-file-line">
             <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
@@ -9763,6 +10027,10 @@
               <td>China</td>
               <td>32.9711</td>
               <td>119.455</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -10026,6 +10294,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC69" class="js-file-line">
             <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
@@ -10148,6 +10420,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
               <td>2</td>
               <td>2</td>
               <td>2</td>
@@ -10296,6 +10572,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
           </tr>
           <tr id="LC71" class="js-file-line">
             <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
@@ -10303,6 +10583,10 @@
               <td>China</td>
               <td>22.1667</td>
               <td>113.55</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -10566,6 +10850,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
           </tr>
           <tr id="LC73" class="js-file-line">
             <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
@@ -10573,6 +10861,10 @@
               <td>China</td>
               <td>35.7452</td>
               <td>95.9956</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -10836,6 +11128,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC75" class="js-file-line">
             <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
@@ -10894,6 +11190,10 @@
               <td>6</td>
               <td>6</td>
               <td>6</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
               <td>7</td>
               <td>7</td>
               <td>7</td>
@@ -11106,6 +11406,10 @@
               <td>7</td>
               <td>7</td>
               <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
           </tr>
           <tr id="LC77" class="js-file-line">
             <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
@@ -11113,6 +11417,10 @@
               <td>China</td>
               <td>37.5777</td>
               <td>112.2922</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -11376,6 +11684,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC79" class="js-file-line">
             <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
@@ -11511,6 +11823,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC80" class="js-file-line">
             <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
@@ -11518,6 +11834,10 @@
               <td>China</td>
               <td>31.6927</td>
               <td>88.0924</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -11781,6 +12101,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC82" class="js-file-line">
             <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
@@ -11817,6 +12141,10 @@
               <td>0</td>
               <td>0</td>
               <td>1</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
               <td>2</td>
               <td>2</td>
               <td>2</td>
@@ -12051,6 +12379,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC84" class="js-file-line">
             <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
@@ -12186,6 +12518,10 @@
               <td>776</td>
               <td>803</td>
               <td>833</td>
+              <td>855</td>
+              <td>891</td>
+              <td>916</td>
+              <td>963</td>
           </tr>
           <tr id="LC85" class="js-file-line">
             <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
@@ -12321,6 +12657,10 @@
               <td>16</td>
               <td>19</td>
               <td>19</td>
+              <td>19</td>
+              <td>19</td>
+              <td>20</td>
+              <td>20</td>
           </tr>
           <tr id="LC86" class="js-file-line">
             <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
@@ -12456,6 +12796,10 @@
               <td>68</td>
               <td>68</td>
               <td>69</td>
+              <td>69</td>
+              <td>69</td>
+              <td>72</td>
+              <td>72</td>
           </tr>
           <tr id="LC87" class="js-file-line">
             <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
@@ -12578,6 +12922,10 @@
               <td>8</td>
               <td>8</td>
               <td>9</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
               <td>10</td>
               <td>10</td>
               <td>10</td>
@@ -12726,6 +13074,10 @@
               <td>30</td>
               <td>31</td>
               <td>32</td>
+              <td>32</td>
+              <td>33</td>
+              <td>33</td>
+              <td>33</td>
           </tr>
           <tr id="LC89" class="js-file-line">
             <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
@@ -12861,6 +13213,10 @@
               <td>101</td>
               <td>101</td>
               <td>102</td>
+              <td>103</td>
+              <td>103</td>
+              <td>103</td>
+              <td>103</td>
           </tr>
           <tr id="LC90" class="js-file-line">
             <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
@@ -12954,6 +13310,10 @@
               <td>12</td>
               <td>12</td>
               <td>12</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
               <td>13</td>
               <td>13</td>
               <td>13</td>
@@ -13131,6 +13491,10 @@
               <td>82</td>
               <td>82</td>
               <td>82</td>
+              <td>82</td>
+              <td>83</td>
+              <td>83</td>
+              <td>83</td>
           </tr>
           <tr id="LC92" class="js-file-line">
             <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
@@ -13250,6 +13614,10 @@
               <td>16</td>
               <td>16</td>
               <td>16</td>
+              <td>17</td>
+              <td>17</td>
+              <td>17</td>
+              <td>17</td>
               <td>17</td>
               <td>17</td>
               <td>17</td>
@@ -13401,6 +13769,10 @@
               <td>317</td>
               <td>317</td>
               <td>319</td>
+              <td>319</td>
+              <td>319</td>
+              <td>320</td>
+              <td>321</td>
           </tr>
           <tr id="LC94" class="js-file-line">
             <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
@@ -13408,6 +13780,10 @@
               <td>Denmark</td>
               <td>61.8926</td>
               <td>-6.9118</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -13671,6 +14047,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
           </tr>
           <tr id="LC96" class="js-file-line">
             <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
@@ -13806,6 +14186,10 @@
               <td>563</td>
               <td>565</td>
               <td>568</td>
+              <td>568</td>
+              <td>571</td>
+              <td>574</td>
+              <td>576</td>
           </tr>
           <tr id="LC97" class="js-file-line">
             <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
@@ -13941,6 +14325,10 @@
               <td>14</td>
               <td>18</td>
               <td>20</td>
+              <td>20</td>
+              <td>22</td>
+              <td>24</td>
+              <td>24</td>
           </tr>
           <tr id="LC98" class="js-file-line">
             <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
@@ -14076,6 +14464,10 @@
               <td>468</td>
               <td>474</td>
               <td>485</td>
+              <td>488</td>
+              <td>498</td>
+              <td>502</td>
+              <td>502</td>
           </tr>
           <tr id="LC99" class="js-file-line">
             <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
@@ -14211,6 +14603,10 @@
               <td>3203</td>
               <td>3275</td>
               <td>3313</td>
+              <td>3334</td>
+              <td>3334</td>
+              <td>3358</td>
+              <td>3358</td>
           </tr>
           <tr id="LC100" class="js-file-line">
             <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
@@ -14346,6 +14742,10 @@
               <td>797</td>
               <td>816</td>
               <td>845</td>
+              <td>879</td>
+              <td>913</td>
+              <td>959</td>
+              <td>1005</td>
           </tr>
           <tr id="LC101" class="js-file-line">
             <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
@@ -14481,6 +14881,10 @@
               <td>36</td>
               <td>39</td>
               <td>39</td>
+              <td>42</td>
+              <td>46</td>
+              <td>46</td>
+              <td>46</td>
           </tr>
           <tr id="LC102" class="js-file-line">
             <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
@@ -14616,6 +15020,10 @@
               <td>12</td>
               <td>12</td>
               <td>12</td>
+              <td>12</td>
+              <td>12</td>
+              <td>12</td>
+              <td>12</td>
           </tr>
           <tr id="LC103" class="js-file-line">
             <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
@@ -14623,6 +15031,10 @@
               <td>Eritrea</td>
               <td>15.1794</td>
               <td>39.7823</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -14886,6 +15298,10 @@
               <td>65</td>
               <td>66</td>
               <td>66</td>
+              <td>67</td>
+              <td>67</td>
+              <td>68</td>
+              <td>68</td>
           </tr>
           <tr id="LC105" class="js-file-line">
             <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
@@ -15021,6 +15437,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>3</td>
           </tr>
           <tr id="LC106" class="js-file-line">
             <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
@@ -15156,6 +15576,10 @@
               <td>6</td>
               <td>6</td>
               <td>7</td>
+              <td>8</td>
+              <td>8</td>
+              <td>11</td>
+              <td>12</td>
           </tr>
           <tr id="LC107" class="js-file-line">
             <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
@@ -15163,6 +15587,10 @@
               <td>Fiji</td>
               <td>-17.7134</td>
               <td>178.065</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -15426,6 +15854,10 @@
               <td>312</td>
               <td>313</td>
               <td>313</td>
+              <td>314</td>
+              <td>316</td>
+              <td>320</td>
+              <td>318</td>
           </tr>
           <tr id="LC109" class="js-file-line">
             <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
@@ -15561,6 +15993,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC110" class="js-file-line">
             <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
@@ -15568,6 +16004,10 @@
               <td>France</td>
               <td>-17.6797</td>
               <td>149.4068</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -15831,6 +16271,10 @@
               <td>14</td>
               <td>14</td>
               <td>14</td>
+              <td>14</td>
+              <td>14</td>
+              <td>14</td>
+              <td>14</td>
           </tr>
           <tr id="LC112" class="js-file-line">
             <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
@@ -15966,6 +16410,10 @@
               <td>20</td>
               <td>20</td>
               <td>21</td>
+              <td>21</td>
+              <td>21</td>
+              <td>21</td>
+              <td>24</td>
           </tr>
           <tr id="LC113" class="js-file-line">
             <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
@@ -15973,6 +16421,10 @@
               <td>France</td>
               <td>-20.9043</td>
               <td>165.618</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -16236,6 +16688,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC115" class="js-file-line">
             <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
@@ -16243,6 +16699,10 @@
               <td>France</td>
               <td>17.9</td>
               <td>-62.8333</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -16506,6 +16966,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC117" class="js-file-line">
             <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
@@ -16603,6 +17067,10 @@
               <td>8</td>
               <td>12</td>
               <td>12</td>
+              <td>14</td>
+              <td>14</td>
+              <td>14</td>
+              <td>14</td>
               <td>14</td>
               <td>14</td>
               <td>14</td>
@@ -16776,6 +17244,10 @@
               <td>28480</td>
               <td>28546</td>
               <td>28611</td>
+              <td>28663</td>
+              <td>28720</td>
+              <td>28751</td>
+              <td>28779</td>
           </tr>
           <tr id="LC119" class="js-file-line">
             <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
@@ -16911,6 +17383,10 @@
               <td>14</td>
               <td>14</td>
               <td>14</td>
+              <td>15</td>
+              <td>17</td>
+              <td>17</td>
+              <td>17</td>
           </tr>
           <tr id="LC120" class="js-file-line">
             <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
@@ -16979,6 +17455,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -17181,6 +17661,10 @@
               <td>12</td>
               <td>12</td>
               <td>12</td>
+              <td>12</td>
+              <td>12</td>
+              <td>12</td>
+              <td>12</td>
           </tr>
           <tr id="LC122" class="js-file-line">
             <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
@@ -17316,6 +17800,10 @@
               <td>8372</td>
               <td>8428</td>
               <td>8470</td>
+              <td>8504</td>
+              <td>8530</td>
+              <td>8540</td>
+              <td>8555</td>
           </tr>
           <tr id="LC123" class="js-file-line">
             <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
@@ -17451,6 +17939,10 @@
               <td>34</td>
               <td>34</td>
               <td>34</td>
+              <td>34</td>
+              <td>35</td>
+              <td>36</td>
+              <td>36</td>
           </tr>
           <tr id="LC124" class="js-file-line">
             <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
@@ -17586,6 +18078,10 @@
               <td>173</td>
               <td>173</td>
               <td>175</td>
+              <td>175</td>
+              <td>175</td>
+              <td>175</td>
+              <td>179</td>
           </tr>
           <tr id="LC125" class="js-file-line">
             <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
@@ -17721,6 +18217,10 @@
               <td>63</td>
               <td>68</td>
               <td>80</td>
+              <td>90</td>
+              <td>102</td>
+              <td>108</td>
+              <td>116</td>
           </tr>
           <tr id="LC126" class="js-file-line">
             <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
@@ -17856,6 +18356,10 @@
               <td>20</td>
               <td>20</td>
               <td>22</td>
+              <td>22</td>
+              <td>23</td>
+              <td>23</td>
+              <td>23</td>
           </tr>
           <tr id="LC127" class="js-file-line">
             <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
@@ -17991,6 +18495,10 @@
               <td>11</td>
               <td>11</td>
               <td>11</td>
+              <td>11</td>
+              <td>12</td>
+              <td>12</td>
+              <td>12</td>
           </tr>
           <tr id="LC128" class="js-file-line">
             <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
@@ -18126,6 +18634,10 @@
               <td>33</td>
               <td>34</td>
               <td>34</td>
+              <td>35</td>
+              <td>41</td>
+              <td>44</td>
+              <td>45</td>
           </tr>
           <tr id="LC129" class="js-file-line">
             <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
@@ -18133,6 +18645,10 @@
               <td>Holy See</td>
               <td>41.9029</td>
               <td>12.4534</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -18396,6 +18912,10 @@
               <td>188</td>
               <td>194</td>
               <td>196</td>
+              <td>196</td>
+              <td>201</td>
+              <td>212</td>
+              <td>217</td>
           </tr>
           <tr id="LC131" class="js-file-line">
             <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
@@ -18531,6 +19051,10 @@
               <td>499</td>
               <td>505</td>
               <td>509</td>
+              <td>517</td>
+              <td>524</td>
+              <td>526</td>
+              <td>527</td>
           </tr>
           <tr id="LC132" class="js-file-line">
             <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
@@ -18627,6 +19151,10 @@
               <td>9</td>
               <td>9</td>
               <td>9</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
               <td>10</td>
               <td>10</td>
               <td>10</td>
@@ -18801,6 +19329,10 @@
               <td>4344</td>
               <td>4534</td>
               <td>4711</td>
+              <td>4980</td>
+              <td>5185</td>
+              <td>5408</td>
+              <td>5608</td>
           </tr>
           <tr id="LC134" class="js-file-line">
             <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
@@ -18936,6 +19468,10 @@
               <td>1418</td>
               <td>1473</td>
               <td>1496</td>
+              <td>1520</td>
+              <td>1573</td>
+              <td>1613</td>
+              <td>1641</td>
           </tr>
           <tr id="LC135" class="js-file-line">
             <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
@@ -19071,6 +19607,10 @@
               <td>7508</td>
               <td>7564</td>
               <td>7627</td>
+              <td>7677</td>
+              <td>7734</td>
+              <td>7797</td>
+              <td>7878</td>
           </tr>
           <tr id="LC136" class="js-file-line">
             <td id="L136" class="blob-num js-line-number" data-line-number="136"></td>
@@ -19206,6 +19746,10 @@
               <td>169</td>
               <td>175</td>
               <td>179</td>
+              <td>185</td>
+              <td>195</td>
+              <td>205</td>
+              <td>215</td>
           </tr>
           <tr id="LC137" class="js-file-line">
             <td id="L137" class="blob-num js-line-number" data-line-number="137"></td>
@@ -19341,6 +19885,10 @@
               <td>1615</td>
               <td>1631</td>
               <td>1639</td>
+              <td>1645</td>
+              <td>1651</td>
+              <td>1652</td>
+              <td>1650</td>
           </tr>
           <tr id="LC138" class="js-file-line">
             <td id="L138" class="blob-num js-line-number" data-line-number="138"></td>
@@ -19476,6 +20024,10 @@
               <td>281</td>
               <td>281</td>
               <td>284</td>
+              <td>284</td>
+              <td>284</td>
+              <td>285</td>
+              <td>285</td>
           </tr>
           <tr id="LC139" class="js-file-line">
             <td id="L139" class="blob-num js-line-number" data-line-number="139"></td>
@@ -19611,6 +20163,10 @@
               <td>32955</td>
               <td>33072</td>
               <td>33142</td>
+              <td>33229</td>
+              <td>33340</td>
+              <td>33415</td>
+              <td>33475</td>
           </tr>
           <tr id="LC140" class="js-file-line">
             <td id="L140" class="blob-num js-line-number" data-line-number="140"></td>
@@ -19720,6 +20276,10 @@
               <td>8</td>
               <td>8</td>
               <td>8</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
               <td>9</td>
               <td>9</td>
               <td>9</td>
@@ -19881,6 +20441,10 @@
               <td>846</td>
               <td>858</td>
               <td>881</td>
+              <td>887</td>
+              <td>894</td>
+              <td>898</td>
+              <td>899</td>
           </tr>
           <tr id="LC142" class="js-file-line">
             <td id="L142" class="blob-num js-line-number" data-line-number="142"></td>
@@ -19989,6 +20553,10 @@
               <td>8</td>
               <td>8</td>
               <td>8</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
               <td>9</td>
               <td>9</td>
               <td>9</td>
@@ -20151,6 +20719,10 @@
               <td>37</td>
               <td>37</td>
               <td>37</td>
+              <td>37</td>
+              <td>38</td>
+              <td>40</td>
+              <td>41</td>
           </tr>
           <tr id="LC144" class="js-file-line">
             <td id="L144" class="blob-num js-line-number" data-line-number="144"></td>
@@ -20286,6 +20858,10 @@
               <td>52</td>
               <td>55</td>
               <td>58</td>
+              <td>62</td>
+              <td>63</td>
+              <td>64</td>
+              <td>69</td>
           </tr>
           <tr id="LC145" class="js-file-line">
             <td id="L145" class="blob-num js-line-number" data-line-number="145"></td>
@@ -20421,6 +20997,10 @@
               <td>269</td>
               <td>269</td>
               <td>269</td>
+              <td>269</td>
+              <td>270</td>
+              <td>271</td>
+              <td>272</td>
           </tr>
           <tr id="LC146" class="js-file-line">
             <td id="L146" class="blob-num js-line-number" data-line-number="146"></td>
@@ -20556,6 +21136,10 @@
               <td>172</td>
               <td>175</td>
               <td>185</td>
+              <td>194</td>
+              <td>205</td>
+              <td>212</td>
+              <td>220</td>
           </tr>
           <tr id="LC147" class="js-file-line">
             <td id="L147" class="blob-num js-line-number" data-line-number="147"></td>
@@ -20687,6 +21271,10 @@
               <td>14</td>
               <td>14</td>
               <td>14</td>
+              <td>16</td>
+              <td>16</td>
+              <td>16</td>
+              <td>16</td>
               <td>16</td>
               <td>16</td>
               <td>16</td>
@@ -20826,6 +21414,10 @@
               <td>22</td>
               <td>23</td>
               <td>24</td>
+              <td>24</td>
+              <td>24</td>
+              <td>24</td>
+              <td>24</td>
           </tr>
           <tr id="LC149" class="js-file-line">
             <td id="L149" class="blob-num js-line-number" data-line-number="149"></td>
@@ -20961,6 +21553,10 @@
               <td>26</td>
               <td>26</td>
               <td>26</td>
+              <td>26</td>
+              <td>26</td>
+              <td>27</td>
+              <td>27</td>
           </tr>
           <tr id="LC150" class="js-file-line">
             <td id="L150" class="blob-num js-line-number" data-line-number="150"></td>
@@ -21096,6 +21692,10 @@
               <td>26</td>
               <td>27</td>
               <td>27</td>
+              <td>27</td>
+              <td>27</td>
+              <td>27</td>
+              <td>27</td>
           </tr>
           <tr id="LC151" class="js-file-line">
             <td id="L151" class="blob-num js-line-number" data-line-number="151"></td>
@@ -21176,6 +21776,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -21366,6 +21970,10 @@
               <td>65</td>
               <td>66</td>
               <td>68</td>
+              <td>68</td>
+              <td>70</td>
+              <td>70</td>
+              <td>70</td>
           </tr>
           <tr id="LC153" class="js-file-line">
             <td id="L153" class="blob-num js-line-number" data-line-number="153"></td>
@@ -21496,6 +22104,10 @@
               <td>109</td>
               <td>109</td>
               <td>109</td>
+              <td>110</td>
+              <td>110</td>
+              <td>110</td>
+              <td>110</td>
               <td>110</td>
               <td>110</td>
               <td>110</td>
@@ -21636,6 +22248,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>5</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
           </tr>
           <tr id="LC155" class="js-file-line">
             <td id="L155" class="blob-num js-line-number" data-line-number="155"></td>
@@ -21764,6 +22380,10 @@
               <td>114</td>
               <td>114</td>
               <td>114</td>
+              <td>115</td>
+              <td>115</td>
+              <td>115</td>
+              <td>115</td>
               <td>115</td>
               <td>115</td>
               <td>115</td>
@@ -21906,6 +22526,10 @@
               <td>5</td>
               <td>5</td>
               <td>5</td>
+              <td>5</td>
+              <td>5</td>
+              <td>5</td>
+              <td>6</td>
           </tr>
           <tr id="LC157" class="js-file-line">
             <td id="L157" class="blob-num js-line-number" data-line-number="157"></td>
@@ -22041,6 +22665,10 @@
               <td>6</td>
               <td>7</td>
               <td>7</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
           </tr>
           <tr id="LC158" class="js-file-line">
             <td id="L158" class="blob-num js-line-number" data-line-number="158"></td>
@@ -22176,6 +22804,10 @@
               <td>13</td>
               <td>16</td>
               <td>19</td>
+              <td>20</td>
+              <td>20</td>
+              <td>23</td>
+              <td>23</td>
           </tr>
           <tr id="LC159" class="js-file-line">
             <td id="L159" class="blob-num js-line-number" data-line-number="159"></td>
@@ -22279,6 +22911,10 @@
               <td>9</td>
               <td>9</td>
               <td>9</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
               <td>10</td>
               <td>10</td>
               <td>10</td>
@@ -22446,6 +23082,10 @@
               <td>8134</td>
               <td>8597</td>
               <td>9044</td>
+              <td>9415</td>
+              <td>9779</td>
+              <td>9930</td>
+              <td>10167</td>
           </tr>
           <tr id="LC161" class="js-file-line">
             <td id="L161" class="blob-num js-line-number" data-line-number="161"></td>
@@ -22581,6 +23221,10 @@
               <td>267</td>
               <td>274</td>
               <td>282</td>
+              <td>288</td>
+              <td>291</td>
+              <td>295</td>
+              <td>305</td>
           </tr>
           <tr id="LC162" class="js-file-line">
             <td id="L162" class="blob-num js-line-number" data-line-number="162"></td>
@@ -22716,6 +23360,10 @@
               <td>4</td>
               <td>4</td>
               <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
           </tr>
           <tr id="LC163" class="js-file-line">
             <td id="L163" class="blob-num js-line-number" data-line-number="163"></td>
@@ -22723,6 +23371,10 @@
               <td>Mongolia</td>
               <td>46.8625</td>
               <td>103.8467</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -22986,6 +23638,10 @@
               <td>9</td>
               <td>9</td>
               <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
           </tr>
           <tr id="LC165" class="js-file-line">
             <td id="L165" class="blob-num js-line-number" data-line-number="165"></td>
@@ -23121,6 +23777,10 @@
               <td>202</td>
               <td>202</td>
               <td>202</td>
+              <td>202</td>
+              <td>204</td>
+              <td>205</td>
+              <td>205</td>
           </tr>
           <tr id="LC166" class="js-file-line">
             <td id="L166" class="blob-num js-line-number" data-line-number="166"></td>
@@ -23128,6 +23788,10 @@
               <td>Namibia</td>
               <td>-22.9576</td>
               <td>18.4904</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -23391,6 +24055,10 @@
               <td>4</td>
               <td>4</td>
               <td>5</td>
+              <td>6</td>
+              <td>6</td>
+              <td>8</td>
+              <td>8</td>
           </tr>
           <tr id="LC168" class="js-file-line">
             <td id="L168" class="blob-num js-line-number" data-line-number="168"></td>
@@ -23526,6 +24194,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
           </tr>
           <tr id="LC169" class="js-file-line">
             <td id="L169" class="blob-num js-line-number" data-line-number="169"></td>
@@ -23590,6 +24262,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -23796,6 +24472,10 @@
               <td>15</td>
               <td>15</td>
               <td>15</td>
+              <td>15</td>
+              <td>15</td>
+              <td>15</td>
+              <td>15</td>
           </tr>
           <tr id="LC171" class="js-file-line">
             <td id="L171" class="blob-num js-line-number" data-line-number="171"></td>
@@ -23931,6 +24611,10 @@
               <td>5856</td>
               <td>5871</td>
               <td>5903</td>
+              <td>5931</td>
+              <td>5951</td>
+              <td>5956</td>
+              <td>5962</td>
           </tr>
           <tr id="LC172" class="js-file-line">
             <td id="L172" class="blob-num js-line-number" data-line-number="172"></td>
@@ -24066,6 +24750,10 @@
               <td>21</td>
               <td>22</td>
               <td>22</td>
+              <td>22</td>
+              <td>22</td>
+              <td>22</td>
+              <td>22</td>
           </tr>
           <tr id="LC173" class="js-file-line">
             <td id="L173" class="blob-num js-line-number" data-line-number="173"></td>
@@ -24198,6 +24886,10 @@
               <td>17</td>
               <td>17</td>
               <td>17</td>
+              <td>35</td>
+              <td>35</td>
+              <td>35</td>
+              <td>35</td>
               <td>35</td>
               <td>35</td>
               <td>35</td>
@@ -24336,6 +25028,10 @@
               <td>63</td>
               <td>63</td>
               <td>64</td>
+              <td>64</td>
+              <td>64</td>
+              <td>64</td>
+              <td>65</td>
           </tr>
           <tr id="LC175" class="js-file-line">
             <td id="L175" class="blob-num js-line-number" data-line-number="175"></td>
@@ -24471,6 +25167,10 @@
               <td>249</td>
               <td>254</td>
               <td>259</td>
+              <td>261</td>
+              <td>273</td>
+              <td>287</td>
+              <td>299</td>
           </tr>
           <tr id="LC176" class="js-file-line">
             <td id="L176" class="blob-num js-line-number" data-line-number="176"></td>
@@ -24606,6 +25306,10 @@
               <td>116</td>
               <td>119</td>
               <td>121</td>
+              <td>126</td>
+              <td>131</td>
+              <td>133</td>
+              <td>140</td>
           </tr>
           <tr id="LC177" class="js-file-line">
             <td id="L177" class="blob-num js-line-number" data-line-number="177"></td>
@@ -24740,6 +25444,10 @@
               <td>235</td>
               <td>235</td>
               <td>235</td>
+              <td>236</td>
+              <td>236</td>
+              <td>236</td>
+              <td>236</td>
               <td>236</td>
           </tr>
           <tr id="LC178" class="js-file-line">
@@ -24876,6 +25584,10 @@
               <td>37</td>
               <td>39</td>
               <td>40</td>
+              <td>40</td>
+              <td>42</td>
+              <td>49</td>
+              <td>50</td>
           </tr>
           <tr id="LC179" class="js-file-line">
             <td id="L179" class="blob-num js-line-number" data-line-number="179"></td>
@@ -25011,6 +25723,10 @@
               <td>1197</td>
               <td>1225</td>
               <td>1260</td>
+              <td>1317</td>
+              <td>1395</td>
+              <td>1483</td>
+              <td>1543</td>
           </tr>
           <tr id="LC180" class="js-file-line">
             <td id="L180" class="blob-num js-line-number" data-line-number="180"></td>
@@ -25146,6 +25862,10 @@
               <td>313</td>
               <td>315</td>
               <td>320</td>
+              <td>326</td>
+              <td>330</td>
+              <td>336</td>
+              <td>344</td>
           </tr>
           <tr id="LC181" class="js-file-line">
             <td id="L181" class="blob-num js-line-number" data-line-number="181"></td>
@@ -25153,6 +25873,10 @@
               <td>Papua New Guinea</td>
               <td>-6.315</td>
               <td>143.9555</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -25416,6 +26140,10 @@
               <td>11</td>
               <td>11</td>
               <td>11</td>
+              <td>11</td>
+              <td>11</td>
+              <td>11</td>
+              <td>11</td>
           </tr>
           <tr id="LC183" class="js-file-line">
             <td id="L183" class="blob-num js-line-number" data-line-number="183"></td>
@@ -25551,6 +26279,10 @@
               <td>3788</td>
               <td>3983</td>
               <td>4099</td>
+              <td>4230</td>
+              <td>4371</td>
+              <td>4506</td>
+              <td>4634</td>
           </tr>
           <tr id="LC184" class="js-file-line">
             <td id="L184" class="blob-num js-line-number" data-line-number="184"></td>
@@ -25686,6 +26418,10 @@
               <td>886</td>
               <td>904</td>
               <td>921</td>
+              <td>942</td>
+              <td>950</td>
+              <td>957</td>
+              <td>960</td>
           </tr>
           <tr id="LC185" class="js-file-line">
             <td id="L185" class="blob-num js-line-number" data-line-number="185"></td>
@@ -25821,6 +26557,10 @@
               <td>1024</td>
               <td>1028</td>
               <td>1038</td>
+              <td>1051</td>
+              <td>1061</td>
+              <td>1064</td>
+              <td>1074</td>
           </tr>
           <tr id="LC186" class="js-file-line">
             <td id="L186" class="blob-num js-line-number" data-line-number="186"></td>
@@ -25956,6 +26696,10 @@
               <td>1342</td>
               <td>1356</td>
               <td>1369</td>
+              <td>1383</td>
+              <td>1396</td>
+              <td>1410</td>
+              <td>1424</td>
           </tr>
           <tr id="LC187" class="js-file-line">
             <td id="L187" class="blob-num js-line-number" data-line-number="187"></td>
@@ -26091,6 +26835,10 @@
               <td>28</td>
               <td>30</td>
               <td>33</td>
+              <td>36</td>
+              <td>36</td>
+              <td>38</td>
+              <td>40</td>
           </tr>
           <tr id="LC188" class="js-file-line">
             <td id="L188" class="blob-num js-line-number" data-line-number="188"></td>
@@ -26226,6 +26974,10 @@
               <td>1216</td>
               <td>1227</td>
               <td>1235</td>
+              <td>1248</td>
+              <td>1259</td>
+              <td>1266</td>
+              <td>1276</td>
           </tr>
           <tr id="LC189" class="js-file-line">
             <td id="L189" class="blob-num js-line-number" data-line-number="189"></td>
@@ -26361,6 +27113,10 @@
               <td>3807</td>
               <td>3968</td>
               <td>4142</td>
+              <td>4374</td>
+              <td>4555</td>
+              <td>4693</td>
+              <td>4849</td>
           </tr>
           <tr id="LC190" class="js-file-line">
             <td id="L190" class="blob-num js-line-number" data-line-number="190"></td>
@@ -26496,6 +27252,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC191" class="js-file-line">
             <td id="L191" class="blob-num js-line-number" data-line-number="191"></td>
@@ -26503,6 +27263,10 @@
               <td>Saint Lucia</td>
               <td>13.9094</td>
               <td>-60.9789</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -26766,6 +27530,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
           </tr>
           <tr id="LC193" class="js-file-line">
             <td id="L193" class="blob-num js-line-number" data-line-number="193"></td>
@@ -26895,6 +27663,10 @@
               <td>41</td>
               <td>41</td>
               <td>41</td>
+              <td>42</td>
+              <td>42</td>
+              <td>42</td>
+              <td>42</td>
               <td>42</td>
               <td>42</td>
               <td>42</td>
@@ -27036,6 +27808,10 @@
               <td>411</td>
               <td>425</td>
               <td>441</td>
+              <td>458</td>
+              <td>480</td>
+              <td>503</td>
+              <td>525</td>
           </tr>
           <tr id="LC195" class="js-file-line">
             <td id="L195" class="blob-num js-line-number" data-line-number="195"></td>
@@ -27171,6 +27947,10 @@
               <td>36</td>
               <td>38</td>
               <td>39</td>
+              <td>41</td>
+              <td>42</td>
+              <td>42</td>
+              <td>42</td>
           </tr>
           <tr id="LC196" class="js-file-line">
             <td id="L196" class="blob-num js-line-number" data-line-number="196"></td>
@@ -27306,6 +28086,10 @@
               <td>239</td>
               <td>240</td>
               <td>241</td>
+              <td>242</td>
+              <td>242</td>
+              <td>243</td>
+              <td>244</td>
           </tr>
           <tr id="LC197" class="js-file-line">
             <td id="L197" class="blob-num js-line-number" data-line-number="197"></td>
@@ -27313,6 +28097,10 @@
               <td>Seychelles</td>
               <td>-4.6796</td>
               <td>55.492</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -27576,6 +28364,10 @@
               <td>23</td>
               <td>23</td>
               <td>23</td>
+              <td>23</td>
+              <td>23</td>
+              <td>23</td>
+              <td>24</td>
           </tr>
           <tr id="LC199" class="js-file-line">
             <td id="L199" class="blob-num js-line-number" data-line-number="199"></td>
@@ -27698,6 +28490,10 @@
               <td>27</td>
               <td>27</td>
               <td>27</td>
+              <td>28</td>
+              <td>28</td>
+              <td>28</td>
+              <td>28</td>
               <td>28</td>
               <td>28</td>
               <td>28</td>
@@ -27846,6 +28642,10 @@
               <td>108</td>
               <td>108</td>
               <td>108</td>
+              <td>108</td>
+              <td>108</td>
+              <td>108</td>
+              <td>109</td>
           </tr>
           <tr id="LC201" class="js-file-line">
             <td id="L201" class="blob-num js-line-number" data-line-number="201"></td>
@@ -27981,6 +28781,10 @@
               <td>67</td>
               <td>67</td>
               <td>72</td>
+              <td>72</td>
+              <td>73</td>
+              <td>78</td>
+              <td>79</td>
           </tr>
           <tr id="LC202" class="js-file-line">
             <td id="L202" class="blob-num js-line-number" data-line-number="202"></td>
@@ -28116,6 +28920,10 @@
               <td>524</td>
               <td>552</td>
               <td>577</td>
+              <td>611</td>
+              <td>643</td>
+              <td>683</td>
+              <td>705</td>
           </tr>
           <tr id="LC203" class="js-file-line">
             <td id="L203" class="blob-num js-line-number" data-line-number="203"></td>
@@ -28251,6 +29059,10 @@
               <td>27117</td>
               <td>27117</td>
               <td>27119</td>
+              <td>27121</td>
+              <td>27125</td>
+              <td>27127</td>
+              <td>27127</td>
           </tr>
           <tr id="LC204" class="js-file-line">
             <td id="L204" class="blob-num js-line-number" data-line-number="204"></td>
@@ -28386,6 +29198,10 @@
               <td>10</td>
               <td>10</td>
               <td>10</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
+              <td>11</td>
           </tr>
           <tr id="LC205" class="js-file-line">
             <td id="L205" class="blob-num js-line-number" data-line-number="205"></td>
@@ -28521,6 +29337,10 @@
               <td>170</td>
               <td>195</td>
               <td>195</td>
+              <td>233</td>
+              <td>262</td>
+              <td>286</td>
+              <td>298</td>
           </tr>
           <tr id="LC206" class="js-file-line">
             <td id="L206" class="blob-num js-line-number" data-line-number="206"></td>
@@ -28600,6 +29420,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -28791,6 +29615,10 @@
               <td>4125</td>
               <td>4220</td>
               <td>4266</td>
+              <td>4350</td>
+              <td>4395</td>
+              <td>4395</td>
+              <td>4403</td>
           </tr>
           <tr id="LC208" class="js-file-line">
             <td id="L208" class="blob-num js-line-number" data-line-number="208"></td>
@@ -28926,6 +29754,10 @@
               <td>1915</td>
               <td>1917</td>
               <td>1919</td>
+              <td>1919</td>
+              <td>1919</td>
+              <td>1920</td>
+              <td>1920</td>
           </tr>
           <tr id="LC209" class="js-file-line">
             <td id="L209" class="blob-num js-line-number" data-line-number="209"></td>
@@ -29061,6 +29893,10 @@
               <td>7</td>
               <td>7</td>
               <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
           </tr>
           <tr id="LC210" class="js-file-line">
             <td id="L210" class="blob-num js-line-number" data-line-number="210"></td>
@@ -29175,6 +30011,10 @@
               <td>16</td>
               <td>16</td>
               <td>16</td>
+              <td>21</td>
+              <td>21</td>
+              <td>21</td>
+              <td>21</td>
               <td>21</td>
               <td>21</td>
               <td>21</td>
@@ -29331,6 +30171,10 @@
               <td>57</td>
               <td>57</td>
               <td>57</td>
+              <td>57</td>
+              <td>57</td>
+              <td>57</td>
+              <td>57</td>
           </tr>
           <tr id="LC212" class="js-file-line">
             <td id="L212" class="blob-num js-line-number" data-line-number="212"></td>
@@ -29466,6 +30310,10 @@
               <td>13</td>
               <td>13</td>
               <td>13</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
+              <td>13</td>
           </tr>
           <tr id="LC213" class="js-file-line">
             <td id="L213" class="blob-num js-line-number" data-line-number="213"></td>
@@ -29548,6 +30396,10 @@
               <td>6</td>
               <td>6</td>
               <td>7</td>
+              <td>8</td>
+              <td>8</td>
+              <td>8</td>
+              <td>8</td>
               <td>8</td>
               <td>8</td>
               <td>8</td>
@@ -29736,6 +30588,10 @@
               <td>48</td>
               <td>48</td>
               <td>48</td>
+              <td>48</td>
+              <td>48</td>
+              <td>48</td>
+              <td>48</td>
           </tr>
           <tr id="LC215" class="js-file-line">
             <td id="L215" class="blob-num js-line-number" data-line-number="215"></td>
@@ -29871,6 +30727,10 @@
               <td>4397</td>
               <td>4431</td>
               <td>4461</td>
+              <td>4489</td>
+              <td>4515</td>
+              <td>4540</td>
+              <td>4563</td>
           </tr>
           <tr id="LC216" class="js-file-line">
             <td id="L216" class="blob-num js-line-number" data-line-number="216"></td>
@@ -29878,6 +30738,10 @@
               <td>Uganda</td>
               <td>1.0</td>
               <td>32.0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -30141,6 +31005,10 @@
               <td>644</td>
               <td>658</td>
               <td>669</td>
+              <td>679</td>
+              <td>696</td>
+              <td>708</td>
+              <td>724</td>
           </tr>
           <tr id="LC218" class="js-file-line">
             <td id="L218" class="blob-num js-line-number" data-line-number="218"></td>
@@ -30276,6 +31144,10 @@
               <td>253</td>
               <td>255</td>
               <td>258</td>
+              <td>260</td>
+              <td>262</td>
+              <td>264</td>
+              <td>266</td>
           </tr>
           <tr id="LC219" class="js-file-line">
             <td id="L219" class="blob-num js-line-number" data-line-number="219"></td>
@@ -30411,6 +31283,10 @@
               <td>9</td>
               <td>9</td>
               <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
+              <td>9</td>
           </tr>
           <tr id="LC220" class="js-file-line">
             <td id="L220" class="blob-num js-line-number" data-line-number="220"></td>
@@ -30472,6 +31348,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -30681,6 +31561,10 @@
               <td>45</td>
               <td>45</td>
               <td>45</td>
+              <td>45</td>
+              <td>45</td>
+              <td>45</td>
+              <td>45</td>
           </tr>
           <tr id="LC222" class="js-file-line">
             <td id="L222" class="blob-num js-line-number" data-line-number="222"></td>
@@ -30688,6 +31572,10 @@
               <td>United Kingdom</td>
               <td>36.1408</td>
               <td>-5.3536</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -30951,6 +31839,10 @@
               <td>24</td>
               <td>24</td>
               <td>24</td>
+              <td>24</td>
+              <td>24</td>
+              <td>24</td>
+              <td>24</td>
           </tr>
           <tr id="LC224" class="js-file-line">
             <td id="L224" class="blob-num js-line-number" data-line-number="224"></td>
@@ -31051,6 +31943,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -31221,6 +32117,10 @@
               <td>37048</td>
               <td>37460</td>
               <td>37837</td>
+              <td>38161</td>
+              <td>38376</td>
+              <td>38489</td>
+              <td>39045</td>
           </tr>
           <tr id="LC226" class="js-file-line">
             <td id="L226" class="blob-num js-line-number" data-line-number="226"></td>
@@ -31356,6 +32256,10 @@
               <td>22</td>
               <td>22</td>
               <td>22</td>
+              <td>22</td>
+              <td>22</td>
+              <td>22</td>
+              <td>23</td>
           </tr>
           <tr id="LC227" class="js-file-line">
             <td id="L227" class="blob-num js-line-number" data-line-number="227"></td>
@@ -31491,6 +32395,10 @@
               <td>98912</td>
               <td>100417</td>
               <td>101616</td>
+              <td>102809</td>
+              <td>103776</td>
+              <td>104381</td>
+              <td>105165</td>
           </tr>
           <tr id="LC228" class="js-file-line">
             <td id="L228" class="blob-num js-line-number" data-line-number="228"></td>
@@ -31626,6 +32534,10 @@
               <td>14</td>
               <td>14</td>
               <td>14</td>
+              <td>14</td>
+              <td>14</td>
+              <td>15</td>
+              <td>15</td>
           </tr>
           <tr id="LC229" class="js-file-line">
             <td id="L229" class="blob-num js-line-number" data-line-number="229"></td>
@@ -31761,6 +32673,10 @@
               <td>11</td>
               <td>11</td>
               <td>11</td>
+              <td>14</td>
+              <td>14</td>
+              <td>14</td>
+              <td>17</td>
           </tr>
           <tr id="LC230" class="js-file-line">
             <td id="L230" class="blob-num js-line-number" data-line-number="230"></td>
@@ -31768,6 +32684,10 @@
               <td>Vietnam</td>
               <td>16.0</td>
               <td>108.0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -32031,6 +32951,10 @@
               <td>7</td>
               <td>7</td>
               <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
+              <td>7</td>
           </tr>
           <tr id="LC232" class="js-file-line">
             <td id="L232" class="blob-num js-line-number" data-line-number="232"></td>
@@ -32129,6 +33053,10 @@
               <td>3</td>
               <td>3</td>
               <td>3</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
               <td>4</td>
               <td>4</td>
               <td>4</td>
@@ -32301,6 +33229,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC234" class="js-file-line">
             <td id="L234" class="blob-num js-line-number" data-line-number="234"></td>
@@ -32308,6 +33240,10 @@
               <td>Dominica</td>
               <td>15.415</td>
               <td>-61.371</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -32571,6 +33507,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
           </tr>
           <tr id="LC236" class="js-file-line">
             <td id="L236" class="blob-num js-line-number" data-line-number="236"></td>
@@ -32706,13 +33646,17 @@
               <td>1</td>
               <td>1</td>
               <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
           </tr>
           <tr id="LC237" class="js-file-line">
             <td id="L237" class="blob-num js-line-number" data-line-number="237"></td>
               <td></td>
               <td>Syria</td>
               <td>34.802075</td>
-              <td>38.996815000000005</td>
+              <td>38.99681500000001</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -32841,6 +33785,10 @@
               <td>4</td>
               <td>4</td>
               <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>5</td>
+              <td>5</td>
           </tr>
           <tr id="LC238" class="js-file-line">
             <td id="L238" class="blob-num js-line-number" data-line-number="238"></td>
@@ -32848,6 +33796,10 @@
               <td>Timor-Leste</td>
               <td>-8.874217</td>
               <td>125.727539</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -33111,6 +34063,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
           </tr>
           <tr id="LC240" class="js-file-line">
             <td id="L240" class="blob-num js-line-number" data-line-number="240"></td>
@@ -33118,6 +34074,10 @@
               <td>Laos</td>
               <td>19.856270000000002</td>
               <td>102.495496</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -33381,6 +34341,10 @@
               <td>3</td>
               <td>4</td>
               <td>5</td>
+              <td>5</td>
+              <td>5</td>
+              <td>5</td>
+              <td>5</td>
           </tr>
           <tr id="LC242" class="js-file-line">
             <td id="L242" class="blob-num js-line-number" data-line-number="242"></td>
@@ -33510,6 +34474,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
+              <td>3</td>
               <td>3</td>
               <td>3</td>
               <td>3</td>
@@ -33651,13 +34619,17 @@
               <td>7</td>
               <td>7</td>
               <td>8</td>
+              <td>8</td>
+              <td>8</td>
+              <td>8</td>
+              <td>8</td>
           </tr>
           <tr id="LC244" class="js-file-line">
             <td id="L244" class="blob-num js-line-number" data-line-number="244"></td>
               <td></td>
               <td>Mali</td>
               <td>17.570692</td>
-              <td>-3.9961660000000006</td>
+              <td>-3.996166000000001</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -33786,6 +34758,10 @@
               <td>70</td>
               <td>70</td>
               <td>72</td>
+              <td>73</td>
+              <td>76</td>
+              <td>77</td>
+              <td>78</td>
           </tr>
           <tr id="LC245" class="js-file-line">
             <td id="L245" class="blob-num js-line-number" data-line-number="245"></td>
@@ -33793,6 +34769,10 @@
               <td>Saint Kitts and Nevis</td>
               <td>17.357822</td>
               <td>-62.782998</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -34056,6 +35036,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
           </tr>
           <tr id="LC247" class="js-file-line">
             <td id="L247" class="blob-num js-line-number" data-line-number="247"></td>
@@ -34063,6 +35047,10 @@
               <td>Canada</td>
               <td>64.2823</td>
               <td>-135.0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -34326,6 +35314,10 @@
               <td>30</td>
               <td>30</td>
               <td>30</td>
+              <td>30</td>
+              <td>30</td>
+              <td>30</td>
+              <td>30</td>
           </tr>
           <tr id="LC249" class="js-file-line">
             <td id="L249" class="blob-num js-line-number" data-line-number="249"></td>
@@ -34461,6 +35453,10 @@
               <td>6</td>
               <td>6</td>
               <td>6</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
+              <td>6</td>
           </tr>
           <tr id="LC250" class="js-file-line">
             <td id="L250" class="blob-num js-line-number" data-line-number="250"></td>
@@ -34468,6 +35464,10 @@
               <td>United Kingdom</td>
               <td>18.2206</td>
               <td>-63.0686</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -34731,12 +35731,16 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC252" class="js-file-line">
             <td id="L252" class="blob-num js-line-number" data-line-number="252"></td>
               <td>Turks and Caicos Islands</td>
               <td>United Kingdom</td>
-              <td>21.694000000000003</td>
+              <td>21.69400000000001</td>
               <td>-71.7979</td>
               <td>0</td>
               <td>0</td>
@@ -34812,6 +35816,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -35001,6 +36009,10 @@
               <td>2</td>
               <td>2</td>
               <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
           </tr>
           <tr id="LC254" class="js-file-line">
             <td id="L254" class="blob-num js-line-number" data-line-number="254"></td>
@@ -35077,6 +36089,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -35271,6 +36287,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
           </tr>
           <tr id="LC256" class="js-file-line">
             <td id="L256" class="blob-num js-line-number" data-line-number="256"></td>
@@ -35406,6 +36426,10 @@
               <td>44</td>
               <td>45</td>
               <td>45</td>
+              <td>45</td>
+              <td>46</td>
+              <td>46</td>
+              <td>46</td>
           </tr>
           <tr id="LC257" class="js-file-line">
             <td id="L257" class="blob-num js-line-number" data-line-number="257"></td>
@@ -35413,6 +36437,10 @@
               <td>Netherlands</td>
               <td>12.1784</td>
               <td>-68.2385</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -35676,6 +36704,10 @@
               <td>4</td>
               <td>4</td>
               <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
+              <td>4</td>
           </tr>
           <tr id="LC259" class="js-file-line">
             <td id="L259" class="blob-num js-line-number" data-line-number="259"></td>
@@ -35683,6 +36715,10 @@
               <td>United Kingdom</td>
               <td>-51.7963</td>
               <td>-59.5236</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -35946,12 +36982,16 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
           </tr>
           <tr id="LC261" class="js-file-line">
             <td id="L261" class="blob-num js-line-number" data-line-number="261"></td>
               <td></td>
               <td>South Sudan</td>
-              <td>6.877000000000001</td>
+              <td>6.8770000000000024</td>
               <td>31.307</td>
               <td>0</td>
               <td>0</td>
@@ -36079,6 +37119,10 @@
               <td>8</td>
               <td>8</td>
               <td>8</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
+              <td>10</td>
               <td>10</td>
               <td>10</td>
           </tr>
@@ -36213,6 +37257,10 @@
               <td>0</td>
               <td>0</td>
               <td>0</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
               <td>1</td>
               <td>1</td>
               <td>1</td>
@@ -36351,6 +37399,10 @@
               <td>12</td>
               <td>12</td>
               <td>12</td>
+              <td>12</td>
+              <td>12</td>
+              <td>12</td>
+              <td>12</td>
           </tr>
           <tr id="LC264" class="js-file-line">
             <td id="L264" class="blob-num js-line-number" data-line-number="264"></td>
@@ -36486,6 +37538,10 @@
               <td>49</td>
               <td>53</td>
               <td>57</td>
+              <td>65</td>
+              <td>77</td>
+              <td>80</td>
+              <td>84</td>
           </tr>
           <tr id="LC265" class="js-file-line">
             <td id="L265" class="blob-num js-line-number" data-line-number="265"></td>
@@ -36619,6 +37675,10 @@
               <td>1</td>
               <td>1</td>
               <td>1</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
+              <td>2</td>
               <td>2</td>
               <td>2</td>
           </tr>
@@ -36756,6 +37816,10 @@
               <td>47</td>
               <td>47</td>
               <td>47</td>
+              <td>47</td>
+              <td>47</td>
+              <td>47</td>
+              <td>47</td>
           </tr>
           <tr id="LC267" class="js-file-line">
             <td id="L267" class="blob-num js-line-number" data-line-number="267"></td>
@@ -36763,6 +37827,10 @@
               <td>Lesotho</td>
               <td>-29.609988</td>
               <td>28.233608</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -36966,9 +38034,9 @@
     <script crossorigin="anonymous" async="async" integrity="sha512-WcQmT2vhcClFVOaaAJV/M+HqsJ2Gq/myvl6F3gCVBxykazXTs+i5fvxncSXwyG1CSfcrqmLFw/R/bmFYzprX2A==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-59c4264f.js"></script>
     <script crossorigin="anonymous" integrity="sha512-Y86V8OBlvF6I/7e56GKOOt80Yg1RTGA09uqFFX18aiBtevLbKGxB7sVpCn79fukppFIBqyBTB/s6l0Bhn0kidQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-63ce95f0.js"></script>
     <script crossorigin="anonymous" async="async" integrity="sha512-ASMgX6+DJ9LVZX/3Fj0RzibSpfigU83ubvsxxwriojWmuBM3faUp1108gypkhXpqLHEBQhIhjlzDOejzOFd0gA==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-0123205f.js"></script>
-    <script crossorigin="anonymous" async="async" integrity="sha512-IVGt/YkGJYHzdlUi9Oj5PX7ABGJ05Fhqw1OYScpD5ZP2Pjygb/+D5TynbZ5VweQMrHPHtDlpbjBvuJMIb4fZBw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-2151adfd.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-g5rd9slMYd7DlFK+kbcZhe8PwyBzE9AHjRuj6+13DTM7pWyOtOakATbNShOf3WzeHUmmOXMrFI5ZL2m4A04Wpg==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-839addf6.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-RSyirKn5rfFMygxCdezE5DX6ROR5m0rwW89+ZyoflrCHODFR6RHp3QbSLRJxD/cOQZGdYYrhIWcz0Fx2zIrHsw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-452ca2ac.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-451oOnupD95DUDXIhKJEa1CrYHIGSIpz7TrtK8x1sAYmuGqd8+xrt3J7pK2yydPxbK11sUnrx5Z763YYZiLf2A==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-e39d683a.js"></script>
     
         <script crossorigin="anonymous" async="async" integrity="sha512-urN6bhHnHu4C12A+cTH3dOp+CwLaycy2HUXr95hvu5pbYRdF8z6iR+UQcTZutQ6mZG3Njluw2MTZVCNmwcqh8g==" type="application/javascript" data-module-id="./randomColor.js" data-src="https://github.githubassets.com/assets/randomColor-bab37a6e.js"></script>
         <script crossorigin="anonymous" async="async" integrity="sha512-3Vk1NFIOm+TBUMM6pTA6DCUwwLLnc/QIT8jpENm71InvSU8O4p2plDagpst1tH1l+9jOBnneaXZnAskA9a2b3w==" type="application/javascript" data-module-id="./gist-vendor.js" data-src="https://github.githubassets.com/assets/gist-vendor-dd593534.js"></script>
